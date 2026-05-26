@@ -46,42 +46,30 @@ Desenvolvedor freelancer focado em **Full Stack Web**, **Mobile** e **IA aplicad
 
 ---
 
-## GitHub Stats
+## Em números
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedro-guimaraes&show_icons=true&theme=tokyonight&hide_border=true&card_width=480&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-guimaraes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=320" />
-</a>
-
-<br/>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=pedro-guimaraes&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedro-guimaraes&theme=tokyo-night&hide_border=true&area=true" />
-</a>
+![Experiência](https://img.shields.io/badge/Experi%C3%AAncia-8%2B_anos-6366F1?style=for-the-badge&labelColor=1a1b27)
+![Produtos](https://img.shields.io/badge/Produtos_em_produ%C3%A7%C3%A3o-5%2B-22c55e?style=for-the-badge&labelColor=1a1b27)
+![Stacks](https://img.shields.io/badge/Dom%C3%ADnio-Web_%2B_Mobile_%2B_IA-f59e0b?style=for-the-badge&labelColor=1a1b27)
+![Localização](https://img.shields.io/badge/Remoto-Brasil-0ea5e9?style=for-the-badge&labelColor=1a1b27)
 
 </div>
+
+> A maior parte do meu trabalho vive em **repositórios privados de clientes**. Os destaques abaixo refletem o que posso compartilhar publicamente.
 
 ---
 
 ## Projetos em Destaque
 
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [**Bravaforte**](https://github.com/Bravaforte-Master/bravaforte) | Plataforma web para gestão de investimentos com múltiplos perfis, dashboards analíticos, gestão de documentos e integrações com Supabase. O frontend é dividido por papel (admin, partner, assessor, investidor, mfa, mfb) e compartilha páginas comuns para produtos e comunicados. | `Supabase` · `React` · `TypeScript` |
-| [**Libero Menu**](https://github.com/pedro-guimaraes/libero-menu) | Plataforma de cardápios digitais e gestão para restaurantes — monorepo com app do cliente, painel admin e área pública | `Turborepo` · `Next.js` · `Supabase` · `TypeScript` |
-| [**Sites Geniais**](https://github.com/pedro-guimaraes/sites-geniais-astro) | Site institucional da agência com CMS headless, 3D e performance de ponta | `Astro` · `React` · `Sanity` · `Three.js` |
-| [**ProjeXMóveis**](https://github.com/pedro-guimaraes/projexmoveis) | Plataforma de revenda com IA multi-modelo (Anthropic / OpenAI / Google) para automação de anúncios e atendimento | `Next.js` · `AI SDK` · `Supabase` · `TipTap` |
-| [**Tomazin**](https://github.com/pedro-guimaraes/tomazin) | Aplicação web com processamento de mídia (FFmpeg), agendamento e autenticação customizada | `Next.js` · `Supabase` · `FFmpeg` · `Motion` |
+| Projeto | Descrição | Stack | Acesso |
+|---------|-----------|-------|--------|
+| [**Bravaforte**](https://github.com/Bravaforte-Master/bravaforte) | Plataforma web para gestão de investimentos com múltiplos perfis (admin, partner, assessor, investidor), dashboards analíticos, gestão de documentos e produtos. | `React` · `TypeScript` · `Supabase` | ![Público](https://img.shields.io/badge/-Rep%C3%B3sit%C3%B3rio-22c55e?style=flat-square) |
+| **Libero Menu** | Plataforma de cardápios digitais e gestão para restaurantes — monorepo com app do cliente, painel admin e área pública. | `Turborepo` · `Next.js` · `Supabase` | ![Privado](https://img.shields.io/badge/-Privado-64748b?style=flat-square&logo=lock) |
+| **Sites Geniais** | Site institucional da agência com CMS headless, animações 3D e performance otimizada. | `Astro` · `React` · `Sanity` · `Three.js` | ![Privado](https://img.shields.io/badge/-Privado-64748b?style=flat-square&logo=lock) |
+| **ProjeXMóveis** | Plataforma de revenda com IA multi-modelo (Anthropic / OpenAI / Google) para automação de anúncios e atendimento. | `Next.js` · `AI SDK` · `Supabase` · `TipTap` | ![Privado](https://img.shields.io/badge/-Privado-64748b?style=flat-square&logo=lock) |
+| **Tomazin** | Aplicação web com processamento de mídia (FFmpeg), agendamento automatizado e autenticação customizada. | `Next.js` · `Supabase` · `FFmpeg` · `Motion` | ![Privado](https://img.shields.io/badge/-Privado-64748b?style=flat-square&logo=lock) |
 
 ---
 
