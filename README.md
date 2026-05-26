@@ -4,8 +4,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-guimaraes)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.guimaraes@bravaforte.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-p97/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@sitesgeniais.com.br)
+[![Status](https://img.shields.io/badge/Status-Aberto_a_projetos-22c55e?style=for-the-badge)](https://www.linkedin.com/in/pedro-henrique-p97/)
 
 </div>
 
@@ -13,11 +14,14 @@
 
 ## Sobre mim
 
-Desenvolvedor com foco em **Full Stack Web**, **Mobile** e **Inteligência Artificial**. Construo produtos do zero — da interface ao modelo, do protótipo ao deploy.
+Desenvolvedor freelancer focado em **Full Stack Web**, **Mobile** e **IA aplicada**. **8 anos** entregando produtos digitais — de MVPs de startups a sistemas internos de PMEs e SaaS em produção.
 
-- Trabalho com **TypeScript** em toda a stack
-- Apaixonado por **AI engineering** e automação com LLMs
-- Sempre explorando o cruzamento entre design e engenharia
+- **Diferencial:** velocidade de entrega. Tiro ideia do papel e ponho no ar sem sacrificar arquitetura.
+- **Stack principal:** TypeScript ponta-a-ponta — Next.js, React Native, Astro, Supabase.
+- **IA aplicada:** integro LLMs (OpenAI, Anthropic, Google) em produtos reais, não em demos.
+- **Remoto, Brasil** — atendo clientes em qualquer fuso.
+
+> **Status atual:** aberto a novos projetos — MVPs de startups, digitalização de PMEs, produtos SaaS escalando com IA. [Vamos conversar](https://www.linkedin.com/in/pedro-henrique-p97/).
 
 ---
 
@@ -46,14 +50,24 @@ Desenvolvedor com foco em **Full Stack Web**, **Mobile** e **Inteligência Artif
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-guimaraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-guimaraes&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedro-guimaraes&show_icons=true&theme=tokyonight&hide_border=true&card_width=480&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-guimaraes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=320" />
+</a>
 
-</div>
+<br/>
 
-<div align="center">
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=pedro-guimaraes&theme=tokyonight&hide_border=true" />
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pedro-guimaraes&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<br/><br/>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedro-guimaraes&theme=tokyo-night&hide_border=true&area=true" />
+</a>
 
 </div>
 
@@ -61,13 +75,13 @@ Desenvolvedor com foco em **Full Stack Web**, **Mobile** e **Inteligência Artif
 
 ## Projetos em Destaque
 
-> Atualize os links e descrições abaixo com seus repos reais.
-
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [🔗 Projeto 1](https://github.com/pedro-guimaraes/projeto-1) | Breve descrição do projeto | Next.js · AI |
-| [🔗 Projeto 2](https://github.com/pedro-guimaraes/projeto-2) | Breve descrição do projeto | React Native · TypeScript |
-| [🔗 Projeto 3](https://github.com/pedro-guimaraes/projeto-3) | Breve descrição do projeto | Astro · TailwindCSS |
+| [**Bravaforte**](https://github.com/Bravaforte-Master/bravaforte) | Plataforma web para gestão de investimentos com múltiplos perfis, dashboards analíticos, gestão de documentos e integrações com Supabase. O frontend é dividido por papel (admin, partner, assessor, investidor, mfa, mfb) e compartilha páginas comuns para produtos e comunicados. | `Supabase` · `React` · `TypeScript` |
+| [**Libero Menu**](https://github.com/pedro-guimaraes/libero-menu) | Plataforma de cardápios digitais e gestão para restaurantes — monorepo com app do cliente, painel admin e área pública | `Turborepo` · `Next.js` · `Supabase` · `TypeScript` |
+| [**Sites Geniais**](https://github.com/pedro-guimaraes/sites-geniais-astro) | Site institucional da agência com CMS headless, 3D e performance de ponta | `Astro` · `React` · `Sanity` · `Three.js` |
+| [**ProjeXMóveis**](https://github.com/pedro-guimaraes/projexmoveis) | Plataforma de revenda com IA multi-modelo (Anthropic / OpenAI / Google) para automação de anúncios e atendimento | `Next.js` · `AI SDK` · `Supabase` · `TipTap` |
+| [**Tomazin**](https://github.com/pedro-guimaraes/tomazin) | Aplicação web com processamento de mídia (FFmpeg), agendamento e autenticação customizada | `Next.js` · `Supabase` · `FFmpeg` · `Motion` |
 
 ---
 
