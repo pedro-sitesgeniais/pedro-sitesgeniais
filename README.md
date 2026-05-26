@@ -65,7 +65,7 @@ Desenvolvedor freelancer focado em **Full Stack Web**, **Mobile** e **IA aplicad
 
 | Projeto | Descrição | Stack | Acesso |
 |---------|-----------|-------|--------|
-| [**Bravaforte**](https://github.com/Bravaforte-Master/bravaforte) | Plataforma web para gestão de investimentos com múltiplos perfis (admin, partner, assessor, investidor), dashboards analíticos, gestão de documentos e produtos. | `React` · `TypeScript` · `Supabase` | ![Público](https://img.shields.io/badge/-Rep%C3%B3sit%C3%B3rio-22c55e?style=flat-square) |
+| [**Bravaforte**] | Plataforma web para gestão de investimentos com múltiplos perfis (admin, partner, assessor, investidor), dashboards analíticos, gestão de documentos e produtos. | `React` · `TypeScript` · `Supabase` | ![Público](https://img.shields.io/badge/-Rep%C3%B3sit%C3%B3rio-22c55e?style=flat-square) |
 | **Libero Menu** | Plataforma de cardápios digitais e gestão para restaurantes — monorepo com app do cliente, painel admin e área pública. | `Turborepo` · `Next.js` · `Supabase` | ![Privado](https://img.shields.io/badge/-Privado-64748b?style=flat-square&logo=lock) |
 | **Sites Geniais** | Site institucional da agência com CMS headless, animações 3D e performance otimizada. | `Astro` · `React` · `Sanity` · `Three.js` | ![Privado](https://img.shields.io/badge/-Privado-64748b?style=flat-square&logo=lock) |
 | **ProjeXMóveis** | Plataforma de revenda com IA multi-modelo (Anthropic / OpenAI / Google) para automação de anúncios e atendimento. | `Next.js` · `AI SDK` · `Supabase` · `TipTap` | ![Privado](https://img.shields.io/badge/-Privado-64748b?style=flat-square&logo=lock) |
